@@ -1,0 +1,25 @@
+{
+  "name": "splott",
+  "version": "0.0.1",
+  "description": "A test project.",
+  "keywords": [],
+  "homepage": "https://github.com/matsalundstrom/splott",
+  "bugs": {
+    "url": "https://github.com/matsalundstrom/splott/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Mats Lundström",
+    "email": "mats.a.lundstrom@gmail.com",
+    "url": "https://github.com/matsalundstrom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matsalundstrom/splott.git"
+  },
+  "scripts": {
+  },
+  "private": true,
+  "devDependencies": {
+  }
+}
