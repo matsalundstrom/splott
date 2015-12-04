@@ -17,9 +17,9 @@
     "type": "git",
     "url": "https://github.com/matsalundstrom/splott.git"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "private": true,
   "devDependencies": {
+    "gulp": "^3.9.0"
   }
 }
