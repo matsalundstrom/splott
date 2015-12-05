@@ -27,6 +27,12 @@ gulp.task('sass', function () {
 		.pipe(gulp.dest('dist/'));
 });
 
+gulp.task('sass:watch', function () {
+	'use strict';
+
+  gulp.watch('src/client/styles/**/*.scss', ['sass']);
+});
+
 gulp.task('default', function () {
   'use strict';
   // place code for your default task here
