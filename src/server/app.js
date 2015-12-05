@@ -1,4 +1,4 @@
-/*global require*/
+/*global require, console*/
 var express = require('express');
 
 var app = express();
