@@ -1,3 +1,5 @@
+@import 'base/variables';
+
 body {
-	background-color: blue;
+	background-color: $primary-base;
 }
